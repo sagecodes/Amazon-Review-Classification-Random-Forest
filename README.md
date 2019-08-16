@@ -1,4 +1,4 @@
-# Titanic Survival
+# Amazon Review Sentiment Prediction
 
 
 
@@ -34,6 +34,7 @@ Predict if feedback is Positive or Negative on Amazon Alexa reviews based on the
 #### Resources:
 
 - [Scikit Learn Random forest classification](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+- [Scikit Feature Extraction | CountVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html)
 
 #### Contact:
 
